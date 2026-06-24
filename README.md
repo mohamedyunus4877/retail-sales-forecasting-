@@ -2,14 +2,6 @@
 
 Multivariate Time Series Forecasting of Retail Sales Using Economic Indicators
 
-**Author:** 
-
-Ruchika Motwani
-
-**Project Duration:** 
-
-Feb 2025 – May 2025
-
 **Overview:**
 
 This project addresses the challenge of accurately forecasting monthly retail sales by incorporating macroeconomic variables. While traditional sales forecasting methods rely only on historical sales data, this project leverages additional context from external indicators like the Consumer Price Index (CPI) and Unemployment Rate to improve model precision.
